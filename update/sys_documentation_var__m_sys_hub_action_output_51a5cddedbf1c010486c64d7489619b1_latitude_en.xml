@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="latitude" label="Latitude" language="en" table="var__m_sys_hub_action_output_51a5cddedbf1c010486c64d7489619b1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>latitude</element>
+            <help/>
+            <hint/>
+            <label>Latitude</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_output_51a5cddedbf1c010486c64d7489619b1</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-20 15:38:59</sys_created_on>
+            <sys_id>b9a58152db35c010486c64d7489619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Latitude</sys_name>
+            <sys_package display_value="IPInfo Spoke" source="x_405005_ipinfo_sp">c214dd02dbb58010486c64d74896190d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPInfo Spoke">c214dd02dbb58010486c64d74896190d</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_output_51a5cddedbf1c010486c64d7489619b1_latitude_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-20 15:38:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
